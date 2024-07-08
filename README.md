@@ -72,3 +72,5 @@ Click on the "Change Display Mode" option in the menu to switch between displayi
 ## License
 
 This project is licensed under the MIT License. For more information, see the `LICENSE` file.
+
+[![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/tr/app/storage-statusbar/id6449625678?l=tr&mt=12)
